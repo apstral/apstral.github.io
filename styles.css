@@ -93,6 +93,7 @@ h1 {
     color: white;
 }
 
+
 @media (max-width: 680px) {
     .container {
         padding: 16px 24px 24px;
